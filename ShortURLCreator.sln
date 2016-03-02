@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pictures", "Pictures", "{20688A18-F56C-4636-BA48-F8B5925C9F85}"
+	ProjectSection(SolutionItems) = preProject
+		Pictures\Bit.ly.ico = Pictures\Bit.ly.ico
+		Pictures\Bit.ly.png = Pictures\Bit.ly.png
+		Pictures\Cort.as.ico = Pictures\Cort.as.ico
+		Pictures\Cort.as.png = Pictures\Cort.as.png
+		Pictures\Gear.png = Pictures\Gear.png
+		Pictures\is.gd.ico = Pictures\is.gd.ico
+		Pictures\is.gd.png = Pictures\is.gd.png
+		Pictures\Karmacracy.ico = Pictures\Karmacracy.ico
+		Pictures\Karmacracy.png = Pictures\Karmacracy.png
+		Pictures\kissa.be.ico = Pictures\kissa.be.ico
+		Pictures\kissa.be.png = Pictures\kissa.be.png
+		Pictures\ShortURLCreator.ico = Pictures\ShortURLCreator.ico
+		Pictures\ShortURLCreator.png = Pictures\ShortURLCreator.png
+		Pictures\TinyArro.ws.ico = Pictures\TinyArro.ws.ico
+		Pictures\TinyArro.ws.png = Pictures\TinyArro.ws.png
+		Pictures\TinyURL.ico = Pictures\TinyURL.ico
+		Pictures\TinyURL.png = Pictures\TinyURL.png
+		Pictures\tr.im.ico = Pictures\tr.im.ico
+		Pictures\tr.im.png = Pictures\tr.im.png
+		Pictures\u.nu.ico = Pictures\u.nu.ico
+		Pictures\u.nu.png = Pictures\u.nu.png
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortURLCreator", "ShortURLCreator\ShortURLCreator.csproj", "{896857BE-34BE-4B90-86E4-718E54B99C32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{B5FF6D53-CF35-4B21-86E3-3571A7B9C88D}"
+	ProjectSection(SolutionItems) = preProject
+		Library\Lumos.Shared.dll = Library\Lumos.Shared.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896857BE-34BE-4B90-86E4-718E54B99C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896857BE-34BE-4B90-86E4-718E54B99C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896857BE-34BE-4B90-86E4-718E54B99C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896857BE-34BE-4B90-86E4-718E54B99C32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
